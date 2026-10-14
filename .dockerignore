@@ -1,0 +1,25 @@
+# Secrets (passed at runtime via env_file, never baked into the image)
+.env
+.env.*
+
+# VCS / IDE
+.git
+.gitignore
+.vscode
+.idea
+
+# Python
+__pycache__
+*.pyc
+.pytest_cache
+.venv
+venv
+
+# Generated output and docs
+output
+output.csv
+*_classified.csv
+*_out.csv
+README.md
+Dockerfile
+docker-compose.yml

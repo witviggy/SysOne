@@ -1,0 +1,11 @@
+ticket_id,subject,message
+1,Charged twice,I was billed two times for my March subscription. Please refund one.
+2,App crashes on launch,Since the last update the mobile app closes immediately when I open it.
+3,Can't reset password,The reset link email never arrives and I'm locked out of my account.
+4,Where is my order?,My package was supposed to arrive last week and tracking hasn't updated in 6 days.
+5,Invoice request,Could you send me a VAT invoice for order 5521?
+6,Change email address,I want to update the email on my profile to a new address.
+7,Error 500 on checkout,The website shows an internal server error whenever I press Pay.
+8,Great service,Just wanted to say thanks to your team for the quick help last time.
+9,Wrong item delivered,I received a blue jacket instead of the black one I ordered.
+10,Cancel subscription,Please cancel my plan and stop future payments.
